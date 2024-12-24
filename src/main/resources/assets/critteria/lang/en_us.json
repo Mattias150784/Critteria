@@ -1,0 +1,12 @@
+{
+  "item.critteria.cheese": "Cheese",
+  "item.critteria.dead_rat": "Dead Rat",
+  "item.critteria.cooked_rat": "Cooked Rat",
+  "item.critteria.rat_spawn_egg": "Rat Spawn Egg",
+
+  "entity.critteria.rat": "Rat",
+
+  "block.critteria.cheese_block": "Cheese Block",
+
+  "creativetab.critteria": "Critteria"
+}

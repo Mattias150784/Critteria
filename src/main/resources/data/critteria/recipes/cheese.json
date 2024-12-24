@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "critteria:cheese_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "critteria:cheese"
+  },
+  "show_notification": true
+}
